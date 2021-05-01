@@ -87,7 +87,7 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.108289 0.112011 0.0968389 1</string>
+	<string>0.126889 0.108433 0.0974286 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
@@ -139,7 +139,7 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0.401944 0.849422 0.935053 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.998954 0.114328 0.263718 1</string>
+		<string>1 0.113725 0.262745 1</string>
 		<key>xcode.syntax.mark</key>
 		<string>0.572549 0.631373 0.694118 1</string>
 		<key>xcode.syntax.markup.code</key>
@@ -149,7 +149,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>0.999999 0.999974 0.999991 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>1 0.0590519 0.359342 1</string>
+		<string>1 0.113725 0.262745 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.968558 0.852542 0.375452 1</string>
 		<key>xcode.syntax.url</key>
