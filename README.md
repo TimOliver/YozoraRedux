@@ -1,4 +1,4 @@
-# YozoraRedux
+# Yozora Redux - Xcode Color Theme
 
 <img src="screenshot.png" width="75%" />
 
