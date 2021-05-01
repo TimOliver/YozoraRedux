@@ -2,7 +2,7 @@
 
 <img src="screenshot.png" width="75%" />
 
-Yozora Redux is my own personally tailored variant of [Yozora](https://github.com/tursunovic/xcode-themes) that I use in [Xcode]. I've mostly just tweaked the sizing, some of the weighting, and the coloring to lean more towards Monokai, which was made famous in [Sublime Text](https://www.sublimetext.com)
+Yozora Redux is my own personally tailored variant of [Yozora](https://github.com/tursunovic/xcode-themes) that I use in [Xcode](https://developer.apple.com/xcode/). I've mostly just tweaked the sizing, some of the weighting, and the coloring to lean more towards Monokai, which was made famous in [Sublime Text](https://www.sublimetext.com)
 
 I've made this repo mainly so I keep track of this theme between Mac migrations, but to also freely offer it if anyone else is interested in using it. :)
 
